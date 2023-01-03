@@ -2,3 +2,6 @@
 "GOOD MORNING" 
 nice to meet you 
 ur great
+hi everyone!!
+we are doing git hub in lab
+the lab name is IIC
